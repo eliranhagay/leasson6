@@ -3,6 +3,8 @@ from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
+#test
+
 # 1a.
 driver = webdriver.Chrome(executable_path="C:\eliran\DevOps\chromedriver.exe")
 # driver.get("http://www.walla.co.il")
